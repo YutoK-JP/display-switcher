@@ -1,4 +1,4 @@
-# Monitor Switcher
+# Display Switcher
 
 Windowsのディスプレイ設定（マルチモニター構成）をコマンドラインから瞬時に保存・復元・切り替えができる、軽量で高速なRust製CLIツールです。
 
@@ -17,8 +17,8 @@ Windowsのディスプレイ設定（マルチモニター構成）をコマン�
 
 ```bash
 # リポジトリのクローン
-git clone [https://github.com/yourusername/monitor-switcher.git](https://github.com/yourusername/monitor-switcher.git)
-cd monitor-switcher
+git clone [https://github.com/yourusername/display-switcher.git](https://github.com/yourusername/display-switcher.git)
+cd display-switcher
 
 # 最適化されたリリースビルドの作成
 cargo build --release

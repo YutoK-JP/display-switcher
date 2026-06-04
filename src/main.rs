@@ -11,7 +11,7 @@ use windows::Win32::Foundation::WIN32_ERROR;
 use windows::core::Result;
 
 #[derive(Parser, Debug)]
-#[command(name = "monitor-switcher", version, about)]
+#[command(name = "display-switcher", version, about)]
 struct Cli {
     #[command(subcommand)]
     command: Commands,
