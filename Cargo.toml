@@ -2,6 +2,9 @@
 name = "discplay_switcher"
 version = "0.1.0"
 edition = "2024"
+description = "Windowsのディスプレイ設定をコマンドラインから瞬時に切り替えるツール"
+repository = "https://github.com/YutoK-JP/display-switcher"
+license = "MIT"
 
 [dependencies]
 clap = { version = "4.6.1", features = ["derive"] }
