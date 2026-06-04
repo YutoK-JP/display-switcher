@@ -1,5 +1,5 @@
 [package]
-name = "discplay_switcher"
+name = "display_switcher"
 version = "0.1.0"
 edition = "2024"
 description = "Windowsのディスプレイ設定をコマンドラインから瞬時に切り替えるツール"
