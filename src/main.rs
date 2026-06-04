@@ -163,7 +163,7 @@ fn save_profile(
     let bat_content = format!(
         "@echo off\n\
         cd /d \"%~dp0..\"\n\
-        monitor-switcher.exe apply {}\n",
+        display-switcher.exe apply {}\n",
         name
     );
 
